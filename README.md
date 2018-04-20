@@ -1,2 +1,2 @@
 # COMP6208
-Advanced Machine Learning Gropu Coursework 
+Advanced Machine Learning Group Coursework 
